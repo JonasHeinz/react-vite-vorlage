@@ -1,0 +1,23 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    margin: 0px 10vw 0px 10vw;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0px 30px 0px;
+  }
+  .titel {
+    text-align: center;
+    margin-top: 20px;
+  }
+  #logo {
+    height: 42px;
+  }
+  
+  .tableHead {
+    background-color: rgb(147, 198, 248);
+  }
+  
